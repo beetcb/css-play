@@ -1,6 +1,3 @@
 {
-  "recommendations": [
-    "johnsoncodehk.volar",
-    "octref.vetur"
-  ]
+  "recommendations": ["johnsoncodehk.volar"]
 }
